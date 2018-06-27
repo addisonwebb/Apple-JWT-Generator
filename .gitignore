@@ -1,0 +1,7 @@
+# MAC FILE SYSTEM
+.DS_Store
+
+
+# PYTHON
+*.pyc
+/env
