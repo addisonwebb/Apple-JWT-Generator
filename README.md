@@ -1,3 +1,6 @@
+## Notice
+Apple now provides a tool for turning your Team ID, MapKit key, and MapKit Key ID into a JWT. https://maps.developer.apple.com/token-maker
+
 # Apple JWT Generator
 
 In order to use MapKit JS or MusicKit JS you need to generate a JWT to authenticate your requests. Unfortuneatly this isn't straight forward and Apple's documentation isn't super helpful with showing you how to generate a JWT.
